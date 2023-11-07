@@ -1,0 +1,388 @@
+[
+    {
+      "name": "MUID",
+      "value": "3629A19A86546D3703B0B2D087FE6CD8",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-11-21T01:08:28.201Z",
+      "size": 36,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None",
+      "Priority": "High"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expiration": "2023-10-31T19:51:55.578Z",
+      "size": 3,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_RwBf",
+      "value": "r=0&ilt=1&ihpd=1&ispd=0&rc=0&rb=0&gb=0&rg=200&pc=0&mtu=0&rbb=0&g=0&cid=&clo=0&v=1&l=2023-09-11T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=2&p=&c=&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2023-09-11T18:41:39.7864641+00:00&rwred=0&wls=&wlb=&lka=0&lkt=0&TH=",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-09-11T18:41:39.240Z",
+      "size": 276,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "A788uSx3vEUXsPd1vPwcLgE",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expiration": "2024-07-01T17:12:45.906Z",
+      "size": 28,
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_HPVN",
+      "value": "CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9dK=0&t=0&s=0001-01-01T00:00:00.0000000+00:00&ts=2023-09-11T18:41:39.7864641+00:00&rwred=0&wls=&wlb=&lka=0&lkt=0&TH=",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-10-15T18:41:39.160Z",
+      "size": 304,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SRCHUID",
+      "value": "V=2&GUID=4C708BE567FB4FB2BE638CE2993103FE&dmnchg=1",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-08-16T18:16:49.558Z",
+      "size": 57,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expiration": "2024-12-01T17:12:45.906Z",
+      "size": 11,
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SRCHHPGUSR",
+      "value": "SRCHLANG=en&PV=15.0.0&BRW=XW&BRH=M&CW=1536&CH=803&SCW=1536&SCH=803&DPR=1.3&UTC=-240&DM=0&WTS=63830054493&PRVCW=1536&PRVCH=803&HV=1694457700",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-10-15T18:41:39.599Z",
+      "size": 149,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OrderParams-v1",
+      "value": "{\"address\":{\"id\":\"56550a10-565d-4942-8bb6-f9c58d9b2e90\",\"address\":\"151 Charles Street West #100, Kitchener, ON, Canada\",\"address2\":\"\",\"address3\":\"\",\"city\":\"Kitchener\",\"province\":\"ON\",\"postalcode\":\"N2G 1H6\",\"latitude\":43.4509558,\"longitude\":-80.49816969999999,\"useLatLongAddress\":false,\"verifiedAccuracy\":false},\"orderType\":\"DELIVERY\",\"requestedTime\":0}",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-31T17:25:23.000Z",
+      "size": 500,
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "UserParams-v1",
+      "value": "{\"user\":{\"userId\":\"5800ed83-7e18-4195-9dba-02de4ca8bb35\",\"token\":\"4cd5fefa-2b8f-42f5-a3fc-6b3677618d79\"}}",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-31T17:25:24.000Z",
+      "size": 140,
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "jet-consent-customer-web",
+      "value": "[\"essential\",\"analytics\",\"functional\",\"personalized\"]",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-10-27T17:25:23.000Z",
+      "size": 99
+    },
+    {
+      "name": "_hjFirstSeen",
+      "value": "1",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-28T17:59:14.000Z",
+      "size": 13,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ravelinSessionUuid",
+      "value": "257ed417-08cb-4e3f-91e8-7339fc4e8694:c87c93a8-bff5-4e3c-9c96-ea9f3dd5213f",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "Session",
+      "size": 91,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_UR",
+      "value": "QS=0&TQS=0",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-10-15T18:41:38.953Z",
+      "size": 13,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ravelinDeviceId",
+      "value": "257ed417-08cb-4e3f-91e8-7339fc4e8694",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-10-27T17:29:25.000Z",
+      "size": 51,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ravelinSessionId",
+      "value": "64c0f6be-209d-4a49-9e98-94e925685987",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-29T16:40:50.000Z",
+      "size": 52
+    },
+    {
+      "name": "SRCHUSR",
+      "value": "DOB=20230713&T=1694457693000",
+      "domain": ".bing.com",
+      "path": "/",
+      "expiration": "2024-10-15T18:41:33.956Z",
+      "size": 35,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "18bc6a4075b511eea88ce9e08cff0039|bizof1|1698514125266|10|1|bat.bing.com/p/insights/c/w",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-11-21T17:28:45.000Z",
+      "size": 93
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0}",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-04-25T17:12:01.000Z",
+      "size": 16
+    },
+    {
+      "name": "_uetsid",
+      "value": "18bbf3c075b511eeb55083d6cf47178d|1cl95e0|2|fg8|0|1396",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-29T17:25:24.000Z",
+      "size": 60
+    },
+    {
+      "name": "_scid_r",
+      "value": "05d35e26-54a5-4dd0-a44a-17bac240ffab",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-11-27T09:43:42.000Z",
+      "size": 43,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SplitIoSessionId",
+      "value": "0e74b2b1-b832-446d-a410-f51b01303653",
+      "domain": "www.skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-12-01T16:40:49.965Z",
+      "size": 52
+    },
+    {
+      "name": "_hjSessionUser_1670123",
+      "value": "eyJpZCI6ImM4MzRlMTI0LWM1ZWEtNWJhMC04Y2I3LTg1NzBjY2M2NTU3OCIsImNyZWF0ZWQiOjE2OTg1MTMxMTYxNTYsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-10-27T17:25:24.000Z",
+      "size": 138,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjIncludedInSessionSample_1670123",
+      "value": "0",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2023-10-28T17:31:08.000Z",
+      "size": 35,
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1698465600000",
+      "domain": ".skipthedishes.com",
+      "path": "/",
+      "expiration": "2024-11-27T09:30:32.000Z",
+      "size": 22,
+      "sameSite": "Lax"
+    },
+    {
+        "name": "ab.storage.deviceId.379f04c2-b2e3-441c-b1f0-f1699573b787",
+        "value": "%7B%22g%22%3A%22914d1383-10f5-b342-24cc-434a88597778%22%2C%22c%22%3A1698513122732%2C%22l%22%3A1698513122732%7D",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-12-01T17:12:02.000Z",
+        "size": 166,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_pin_unauth",
+        "value": "dWlkPVpqZzNOelprTVdJdFptTmhNeTAwTmpsbUxXSTFPR0V0TkRJNU16Qm1NV1V6Nm1Reg",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-10-27T17:25:24.000Z",
+        "size": 81,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_hjSession_1670123",
+        "value": "eyJpZCI6IjlmNjBjNmUyLTAwMGUtNDUwOS05MmFhLTMzOWQ0ZGFmYjU0NiIsImNyZWF0ZWQiOjE2OTg1MTMxMTYxNjIsImluU2FtcGxlIjpmYWxzZSwic2Vzc2lvbml6ZXJCZXRhRW5hYmxlZCI6ZmFsc2V9",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2023-10-28T17:59:14.000Z",
+        "size": 174,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "skipwebsite-bucket",
+        "value": "home:2:legacy",
+        "domain": "www.skipthedishes.com",
+        "path": "/",
+        "expirationDate": "Session",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Strict"
+    },
+    {
+        "name": "SRCHD",
+        "value": "AF=NOFORM",
+        "domain": ".bing.com",
+        "path": "/",
+        "expirationDate": "2024-08-16T18:16:49.558Z",
+        "size": 14,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "ab.storage.userId.379f04c2-b2e3-441c-b1f0-f1699573b787",
+        "value": "%7B%22g%22%3A%225800ed83-7e18-4195-9dba-02de4ca8bb35%22%2C%22c%22%3A1698513122723%2C%22l%22%3A1698513122728%7D",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-12-01T17:12:02.000Z",
+        "size": 164,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gcl_au",
+        "value": "1.1.50452279.1698513116",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-01-26T17:11:56.000Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_gid",
+        "value": "GA1.2.2128066280.1698513116",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2023-10-29T17:25:56.000Z",
+        "size": 31,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "ab.storage.sessionId.379f04c2-b2e3-441c-b1f0-f1699573b787",
+        "value": "%7B%22g%22%3A%22e85729ec-d563-2e85-707e-509a20b1890b%22%2C%22e%22%3A1698515756883%2C%22c%22%3A1698513122726%2C%22l%22%3A1698513956883%7D",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-12-01T17:25:56.000Z",
+        "size": 193,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "__cf_bm",
+        "value": "7GnD0Pv7gAQ2EvDc5ppN3LvYdowiHTJ0xd38GiHdSjU-1698513112-0-AZ7D6CpBAAGWVBNXTnG5M4OQXSKBoO4tYC12Zbar7ujKkJZ0JgDr603bkpK/aSecnzzT/Q5U3L3vhnLUnszNbyg=",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2023-10-28T17:41:51.354Z",
+        "size": 152,
+        "httpOnly": true,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_ga",
+        "value": "GA1.2.1980353035.1698513116",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-12-01T17:25:56.871Z",
+        "size": 30,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "_scid",
+        "value": "05d35e26-54a5-4dd0-a44a-17bac240ffab",
+        "domain": ".skipthedishes.com",
+        "path": "/",
+        "expirationDate": "2024-11-27T09:30:13.000Z",
+        "size": 41,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    }
+  ]
